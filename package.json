@@ -1,0 +1,23 @@
+{
+  "name": "learnjswiththisoneproject",
+  "version": "1.0.0",
+  "description": "I am following a tutorial from Tech with Tim to practice my rusty JavaScript SKills from his video Learn JavaScript with this One Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pammitu/Slot-Machine.git"
+  },
+  "keywords": [
+    "practice",
+    "JavaScript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pammitu/Slot-Machine/issues"
+  },
+  "homepage": "https://github.com/pammitu/Slot-Machine#readme"
+}
