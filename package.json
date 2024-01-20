@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/pammitu/Slot-Machine/issues"
   },
-  "homepage": "https://github.com/pammitu/Slot-Machine#readme"
+  "homepage": "https://github.com/pammitu/Slot-Machine#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
